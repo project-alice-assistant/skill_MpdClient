@@ -1,4 +1,6 @@
 # MpdClient
+[![Continous Integration](https://gitlab.com/project-alice-assistant/skills/skill_MpdClient/badges/master/pipeline.svg)](https://gitlab.com/project-alice-assistant/skills/skill_MpdClient/pipelines/latest)
+
 ### Download
 ##### > WGET method
 ```bash
