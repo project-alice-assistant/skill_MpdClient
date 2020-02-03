@@ -34,7 +34,7 @@ class MpdClient(AliceSkill):
 		self._playbackStatus = None
 
 		if not self._host:
-			self.log.warning('MPD host not configured, not doing anything.')
+			selflogWarning('MPD host not configured, not doing anything.')
 			return
 
 		self.ThreadManager.doLater(interval=1, func=self._mpdPollStatus)
@@ -57,7 +57,7 @@ class MpdClient(AliceSkill):
 		self._mpdConnected = True
 		self._playbackStatus = (status['state'] == 'play')
 
-		#self.log.info(f'Music playing is now {self._playbackStatus}')
+		#self.logInfo(f'Music playing is now {self._playbackStatus}')
 
 
 	def _connect(self):
