@@ -1,6 +1,7 @@
 {
 	"name": "MpdClient",
 	"version": "0.0.23",
+	"icon": "battle-net",
 	"author": "glueckself",
 	"maintainers": ["maxbachmann"],
 	"desc": "Control an MPD server",
