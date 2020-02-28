@@ -1,6 +1,6 @@
 {
 	"name": "MpdClient",
-	"version": "0.0.23",
+	"version": "0.0.24",
 	"icon": "fab fa-battle-net",
 	"author": "glueckself",
 	"maintainers": ["maxbachmann"],

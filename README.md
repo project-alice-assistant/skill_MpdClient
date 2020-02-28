@@ -10,7 +10,7 @@ wget http://skills.projectalice.ch/MpdClient -O ~/ProjectAlice/system/skillInsta
 ### Description
 Control an MPD server
 
-- Version: 0.0.23
+- Version: 0.0.24
 - Author: glueckself
 - Maintainers: maxbachmann
 - Alice minimum Version: 1.0.0-a5
