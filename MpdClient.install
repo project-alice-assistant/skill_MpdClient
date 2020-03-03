@@ -2,6 +2,7 @@
 	"name": "MpdClient",
 	"version": "0.0.24",
 	"icon": "fab fa-battle-net",
+	"category": "undefined",
 	"author": "glueckself",
 	"maintainers": ["maxbachmann"],
 	"desc": "Control an MPD server",
