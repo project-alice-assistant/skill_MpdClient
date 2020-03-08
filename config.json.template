@@ -2,16 +2,19 @@
 	"mpdHost": {
 		"defaultValue": "localhost",
 		"dataType": "string",
+		"isSensitve": false,
 		"description": "Mopidy host"
 	},
 	"mpdPort": {
 		"defaultValue": 6600,
 		"dataType": "integer",
+		"isSensitve": false,
 		"description": "Mopidy server port"
 	},
 	"mpdPassword": {
 		"defaultValue": "",
-		"dataType": "password",
+		"dataType": "string",
+		"isSensitve": true,
 		"description": "Mopidy password"
 	}
 }

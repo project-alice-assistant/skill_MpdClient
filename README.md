@@ -5,7 +5,7 @@
 ### Description
 Control an MPD server
 
-- Version: 0.0.24
+- Version: 0.0.25
 - Author: glueckself
 - Maintainers: maxbachmann
 - Alice minimum Version: 1.0.0-a5
