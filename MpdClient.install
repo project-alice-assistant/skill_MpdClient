@@ -1,18 +1,22 @@
 {
-	"name": "MpdClient",
-	"version": "0.0.25",
-	"icon": "fab fa-battle-net",
-	"category": "music",
-	"author": "glueckself",
-	"maintainers": ["maxbachmann"],
-	"desc": "Control an MPD server",
-	"aliceMinVersion": "1.0.0-a5",
-	"systemRequirements": [],
-	"pipRequirements": ["python-mpd2"],
-	"conditions": {
-		"lang": [
-			"en",
-			"de"
-		]
-	}
+    "name": "MpdClient",
+    "version": "0.0.26",
+    "icon": "fab fa-battle-net",
+    "category": "music",
+    "author": "glueckself",
+    "maintainers": [
+        "maxbachmann"
+    ],
+    "desc": "Control an MPD server",
+    "aliceMinVersion": "1.0.0-a5",
+    "systemRequirements": [],
+    "pipRequirements": [
+        "python-mpd2"
+    ],
+    "conditions": {
+        "lang": [
+            "en",
+            "de"
+        ]
+    }
 }
