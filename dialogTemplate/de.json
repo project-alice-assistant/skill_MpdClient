@@ -1,12 +1,9 @@
 {
 	"skill": "MpdClient",
-	"icon": "music",
-	"description": "Control an MPD server",
 	"slotTypes": [],
 	"intents": [
 		{
 			"name": "mpdPlay",
-			"description": "User wants to start the current playlist.",
 			"enabledByDefault": true,
 			"utterances": [
 				"Musik bitte",
@@ -20,7 +17,6 @@
 		},
 		{
 			"name": "mpdStop",
-			"description": "User wants to stop the current playback.",
 			"enabledByDefault": true,
 			"utterances": [
 				"Schalte die Musik aus.",
@@ -32,7 +28,6 @@
 		},
 		{
 			"name": "mpdNext",
-			"description": "User wants to skip to the next track.",
 			"enabledByDefault": true,
 			"utterances": [
 				"Nächstes Lied bitte",
@@ -45,7 +40,6 @@
 		},
 		{
 			"name": "mpdPrev",
-			"description": "User wants to return to the previous track.",
 			"enabledByDefault": true,
 			"utterances": [
 				"Vorheriges Lied bitte",
