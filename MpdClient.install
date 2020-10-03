@@ -1,6 +1,6 @@
 {
     "name": "MpdClient",
-    "version": "0.0.26",
+    "version": "0.0.27",
     "icon": "fab fa-battle-net",
     "category": "music",
     "author": "glueckself",
@@ -8,7 +8,7 @@
         "maxbachmann"
     ],
     "desc": "Control an MPD server",
-    "aliceMinVersion": "1.0.0-a5",
+    "aliceMinVersion": "1.0.0-b3",
     "systemRequirements": [],
     "pipRequirements": [
         "python-mpd2"
