@@ -1,7 +1,7 @@
 {
     "name": "MpdClient",
-    "version": "0.0.32",
-    "icon": "fab fa-battle-net",
+    "version": "0.0.33",
+    "icon": "fas fa-user-alien",
     "category": "music",
     "author": "glueckself",
     "maintainers": [
