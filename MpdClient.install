@@ -1,6 +1,6 @@
 {
     "name": "MpdClient",
-    "version": "0.0.33",
+    "version": "0.0.34",
     "icon": "fas fa-user-alien",
     "category": "music",
     "author": "glueckself",
